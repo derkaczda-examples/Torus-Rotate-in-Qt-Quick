@@ -1,5 +1,10 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>MainWindow.ui.qml</file>
+        <file>MainWindow3dRootNode.qml</file>
+        <file>Assets.qml</file>
+        <file>TorusAsset.qml</file>
+        <file>RotationWrapper.qml</file>
     </qresource>
 </RCC>
