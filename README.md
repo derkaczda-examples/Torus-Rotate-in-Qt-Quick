@@ -1,2 +1,4 @@
-# LED-Cube-Simulator
-Simulate an LED Cube. Created with Qt and QML
+# Rotate a Torus
+with Qt Quick (Qml) and Qt3D
+
+![](./gif/TorusRotation.gif)
