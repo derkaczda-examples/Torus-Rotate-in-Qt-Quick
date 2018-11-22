@@ -37,10 +37,10 @@ Entity {
 
            transform: Transform {
                id: torusTransform
-               scale3D: Qt.vector3d(1,2,1)
+               scale3D: Qt.vector3d(.5,.5,0.5)
 
                property real rotationAngle: 45
-               rotation: fromAxisAndAngle(Qt.vector3d(1,1,0), rotationAngle)
+               rotation: fromAxisAndAngle(Qt.vector3d(0,1,0), rotationAngle)
            }
         }
 

@@ -31,7 +31,7 @@ Entity {
 
     TorusMesh {
         id: torusAssetMesh
-        radius: 15
+        radius: 5
         minorRadius: 1
         rings: 100
         slices: 20
